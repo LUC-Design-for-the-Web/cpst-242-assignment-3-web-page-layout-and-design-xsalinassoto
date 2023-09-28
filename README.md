@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=12116730&assignment_repo_type=AssignmentRepo)
 # Overview
 
 For assignment 3, you will continue to develop your site by coding the distinct wire-frames you created in assignment 2.  You will also solidify your color and graphics strategy by selecting the colors and typography you will use in the final draft of your site. 
